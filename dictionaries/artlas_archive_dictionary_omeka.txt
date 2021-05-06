@@ -1,0 +1,45 @@
++name	description
+Birth Date	Date de naissance
+Birthplace	Lieu de naissance
+Death Date	Date de décès
+Bibliography	NA
+Contributor	An entity responsible for making contributions to the resource
+Coverage	The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant
+Creator	An entity primarily responsible for making the resource
+Date	A point or period of time associated with an event in the lifecycle of the resource
+Description	An account of the resource
+Format	The file format, physical medium, or dimensions of the resource
+Language	A language of the resource
+Publisher	An entity responsible for making the resource available
+Rights	Information about rights held in and over the resource
+Source	A related resource from which the described resource is derived
+Subject	The topic of the resource
+Title	A name given to the resource
+Type	The nature or genre of the resource
+Deathplace	NA
+Last Name	NA
+First Name	Nom de famille
+Genre	NA
+Père	NA
+Mère	NA
+Famille	NA
+Discipline	NA
+Lieu d'études	NA
+Maître	NA
+Sujet du Prix	NA
+Date du Prix de Rome	NA
+Date d'arrivée à Rome	NA
+Séjour à Rome	NA
+Envoi	NA
+Date de départ de Rome	NA
+Carrière	NA
+Enseignement	NA
+Distinctions	NA
+Notes	NA
+Siècle	NA
+Gouvernement de l'époque	NA
+Autorités de tutelle	NA
+Secrétaire de l'Académie des Beaux-arts	NA
+Directeur de l'Académie de France à Rome	NA
+Salons, expositions	indiquer ici les salons et expositions auxquelles l'artiste a participé
+Oeuvres représentatives	NA

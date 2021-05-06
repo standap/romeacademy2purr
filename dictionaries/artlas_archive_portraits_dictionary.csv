@@ -1,0 +1,16 @@
+variable|class|description
+record_id|numeric|Record ID of the portrayed artist in the Residents of the French Academy in Rome database.
+artist|character|Name of the  portrayed artists as it appears in the wikidata database (q number).
+wikidata_id|character|Identifier of the portrayed artist in wikidata.
+filename|character|Image of the portrait.
+creator|character|Name of the portraitist.
+creator_wikidata_id|character|Identifier of the portraitist in wikidata (q number).
+created|character|Year when the portrait was created.
+description|character|Physical description of the portrait.
+measurements|character|Measurements of the original portrait.
+archive|character|Name of the archive
+rights|character|Rights associated with the portrait.
+file_number|character|File number
+type|character|Type of portrait
+original_filename|character|Original filename .
+filesize|numeric|Size of the file.
